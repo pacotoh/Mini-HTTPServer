@@ -1,0 +1,172 @@
+ INFO: web server starting...:7002:13138
+ INFO: web server starting...:7000:13189
+ INFO: web server starting...:7000:13230
+ERROR: system call:bind Errno=98 exiting pid=13230
+ INFO: web server starting...:9999:13342
+ INFO: web server starting...:8888:13381
+ INFO: web server starting...:8888:13443
+ERROR: system call:bind Errno=98 exiting pid=13443
+ INFO: web server starting...:9999:13452
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: web server starting...:8888:14062
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.hasd:4
+ERROR: error:Extensión no válida Errno=0 exiting pid=14146
+ INFO: Ha llegado una petición:GET /index:4
+ERROR: error:Extensión no válida Errno=0 exiting pid=14148
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: web server starting...:9999:2403
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: web server starting...:9998:2622
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: web server starting...:8888:2701
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: web server starting...:8888:7290
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /asdasd:4
+ERROR: error:Extensión no válida Errno=0 exiting pid=7437
+ INFO: Ha llegado una petición:GET /asdasd.html:4
+ INFO: Ha llegado una petición:GET /asdasd.html:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: web server starting...:9999:2213
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:9998:2242
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: web server starting...:9997:2368
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:9996:2389
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:9995:2404
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:9999:3172
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: web server starting...:8888:3252
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: web server starting...:8889:3294
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:8886:3387
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: web server starting...:8881:3418
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: web server starting...:8880:3485
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /:4
+ INFO: web server starting...:8885:3531
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:8881:3882
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: web server starting...:8888:3954
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: web server starting...:8080:3914
+ INFO: Ha llegado una petición:GET /:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /favicon.ico:4
+ INFO: Ha llegado una petición:GET /index.html:4
+ INFO: Ha llegado una petición:GET /fox.jpg:4
+ INFO: Ha llegado una petición:GET /asd:4
+ERROR: error:Extensión no válida Errno=0 exiting pid=3956
